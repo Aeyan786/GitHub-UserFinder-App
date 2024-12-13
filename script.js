@@ -50,7 +50,6 @@ userinfo.innerHTML = `
 
                 </div>
 `
-input.value = " "
 }
 
 }
